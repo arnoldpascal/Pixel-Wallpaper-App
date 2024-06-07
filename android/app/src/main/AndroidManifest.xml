@@ -10,8 +10,8 @@
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <application
-        android:debuggable="true"
-        android:label="wallpaper_app"
+        android:debuggable="false"
+        android:label="Pixel Wallpaper"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
